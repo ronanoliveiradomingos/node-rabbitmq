@@ -1,0 +1,9 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "prova de conceito nodejs com rabbitmq",
+  "author": "Ronan Oliveira Domingos",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
